@@ -1,4 +1,5 @@
 pandas
 numpy
-data science
 machine learning
+jupyter
+VS code
