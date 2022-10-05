@@ -1,2 +1,4 @@
 pandas
 numpy
+data science
+machine learning
